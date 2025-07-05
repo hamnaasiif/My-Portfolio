@@ -88,7 +88,6 @@ A modern, responsive portfolio website showcasing projects and skills with elega
 ## Contact
 
 - **Email:** hamnaasif2601@gmail.com
-- **Phone:** +92 312 6116636
 - **Location:** Faisalabad, Pakistan
 - **GitHub:** [hamnaasiif](https://github.com/hamnaasiif)
 - **LinkedIn:** [Hamna Asif](https://www.linkedin.com/in/hamna-asif-98121936b/)
